@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/02 - Character Animation.unity
+- path: Assets/Scenes/03 - Character Animation Offical.unity
   isLoaded: 1
   isActive: 1
